@@ -1,0 +1,26 @@
+{
+  "paths": {
+    "readme": "README.md",
+    "gif": "assets/42.gif",
+    "haiku_gif": "assets/haiku.gif",
+    "font": "assets/font.ttc"
+  },
+  "models": {
+    "llama4-17b": {
+      "display_name": "Llama 4 Scout",
+      "technical_name": "meta-llama/llama-4-scout-17b-16e-instruct"
+    },
+    "llama3-70b": {
+      "display_name": "Llama 3.3",
+      "technical_name": "llama-3.3-70b-versatile"
+    },
+    "gemma2-9b": {
+      "display_name": "Gemma 2:9B",
+      "technical_name": "gemma2-9b-it"
+    }
+  },
+  "prompts": {
+    "generate_haiku": "Please write a haiku. It must consist of three lines with a 5-7-5 syllable structure. Provide only the three lines of the haiku, with each line separated by the line break tag.",
+    "rate_haiku": "You are an expert AI Haiku Rater. You must return your evaluation in a specific JSON format.\nYou will be given a JSON array of strings. Each string in this array represents a complete haiku, with its three lines separated by a line break (<br>) (e.g., \"First line<br>Second line<br>Third line\").\n\n**Rating Instructions:**\n\nFor each haiku:\n1.  **Determine an `overall_score`:**\n* This should be an integer from 1 (Poor) to 5 (Excellent).\n* In determining this score, please consider the haiku's adherence to the 5-7-5 syllable structure and its general poetic merit (such as clarity of imagery, emotional resonance, conciseness, effective word choice, and originality).\n2.  **Provide `reasoning`:**\n* A concise (1-2 sentences) explanation for your `overall_score`. This reasoning should briefly touch upon why the haiku received that score, considering its structure and poetic qualities.\n\n**Output Format:**\n\nFor *each* haiku string you evaluate from the input list, provide a corresponding JSON object. Return a single JSON array containing all these evaluation objects. Each object MUST follow this exact structure:\n\n{\n    \"haiku_index\": integer, // The 0-based index of the haiku string from the input array\n    \"overall_score\": integer, // Score from 1 to 5\n    \"reasoning\": \"string\"   // Brief justification for the score\n}\n\nOnly output this structure and nothing else."
+  }
+}
