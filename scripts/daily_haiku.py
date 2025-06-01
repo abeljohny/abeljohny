@@ -203,8 +203,8 @@ if __name__ == "__main__":
     g = Github(config['github']['token'])
     repo = g.get_repo(config['github']['repo_name'])
 
-    script_runner_login = g.get_user().login
-    logging.info('Script is running as (authenticated user): %s.', script_runner_login)
+    # script_runner_login = g.get_user().login
+    # logging.info('Script is running as (authenticated user): %s.', script_runner_login)
 
     haikus, haikus_rated = get_rated_haikus()
     haikus_rated_list = [json.loads(haiku_rating) for haiku_rating in haikus_rated]
