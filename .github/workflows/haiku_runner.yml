@@ -1,0 +1,47 @@
+name: Haiku Runner
+
+on:
+  schedule:
+    - cron: '30 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  run_python_script:
+    runs-on: macos-latest
+    permissions:
+        contents: write
+        issues: write
+
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v4
+
+      - name: Set up Python environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Execute script
+        run: python daily_haiku.py
+        env:
+            GROQ_API_KEY: ${{ secrets.API_KEY }}
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+            GITHUB_REPOSITORY: ${{ github.repository }}
+          
+      - name: Update README.md
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated update via Python script"
+            git push
+          fi
