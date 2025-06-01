@@ -1,7 +1,5 @@
 # 👋 Welcome to my corner of GitHub!
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/abeljohny/abeljohny/haiku.yml?label=Daily%20Haiku&style=flat-square)
-
 ## ✨ Today's Haiku ✨
 
 <p align="center">
