@@ -1,11 +1,6 @@
 import os
-from dotenv import load_dotenv
-
-load_dotenv()
-
 import json
 import logging
-import re
 import sys
 from collections import defaultdict
 from github import Github
@@ -16,7 +11,6 @@ config = {
     'github': {
         'repo_name': os.getenv('GITHUB_REPOSITORY'),
         'token': os.getenv('GITHUB_TOKEN'),
-        'check_issues_created_by': os.getenv('CHECK_ISSUES_CREATED_BY', None),
     },
     'groq_api_key': os.getenv('GROQ_API_KEY'),
 }
@@ -37,7 +31,7 @@ def load_config():
     config = {**config, **config_json}
 
 
-def groq(model: str, prompt: str, sysprompt='', temperature=.75) -> str:
+def groq(model: str, prompt: str, sysprompt='', temperature=.8) -> str:
     """'Groq' the provided model with the specified prompt, system prompt, and temperature."""
     client = Groq(api_key=config['groq_api_key'])
     messages = []
