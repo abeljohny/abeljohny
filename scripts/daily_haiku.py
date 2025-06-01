@@ -1,6 +1,7 @@
 import os
 import json
 import logging
+import string_utils
 import sys
 from collections import defaultdict
 from github import Github
@@ -100,7 +101,7 @@ def add_text_to_gif(text, gif_path, output_path, position=(10, 10), font_size=20
             img.seek(i)
             frame = img.convert('RGBA')
             draw = ImageDraw.Draw(frame)
-            draw.text(position, text, font=font, fill=font_color_rgba)
+            draw.text(position, string_utils.replace_br_with_newlines(text), font=font, fill=font_color_rgba)
             frames.append(frame)
             durations.append(img.info.get('duration', 100))
 
@@ -131,10 +132,6 @@ def generate_md_table(haikus, stats, means, win_idx):
         header = f'{header} | Mean Score | Status |'
         return header
     
-    def replace_newlines_with_br(text_content):
-        lines = text_content.splitlines()
-        return '<br>'.join(lines)
-    
     if not stats:
         return ''
     
@@ -142,12 +139,13 @@ def generate_md_table(haikus, stats, means, win_idx):
     header = build_header(models)
     separator = '| :---------------------------------------------- | :----------- | :----------------- | :---------------- | :----------------- | :--------- | :-------- |'
     body = ''
-    haikus = [replace_newlines_with_br(haiku) for haiku in haikus]
+    haikus = [string_utils.replace_newlines_with_br(haiku) for haiku in haikus]
 
-    for i, stat in enumerate(stats):
+    # as models x haikus is square (3x3)
+    for i in range(len(stats)):
         body += f'*{haikus[i].strip()}* | {models[i]}'
-        for j, _ in enumerate(models):
-            body = f'{body} | {round(stat[j]['overall_score'], 2)} / 5'
+        for stat in stats:
+            body = f'{body} | {round(stat[i]['overall_score'], 2)} / 5'
         body += f'| {round(means[i], 2)}'
         if win_idx == i:
             body += ' | 🏆 Winner |'
