@@ -1,6 +1,7 @@
 {
   "paths": {
     "readme": "README.md",
+    "history": "assets/history.csv",
     "gif": "assets/42.gif",
     "haiku_gif": "assets/haiku.gif",
     "font": "assets/font.ttc"
@@ -8,15 +9,18 @@
   "models": {
     "llama4-17b": {
       "display_name": "Llama 4 Scout",
-      "technical_name": "meta-llama/llama-4-scout-17b-16e-instruct"
+      "technical_name": "meta-llama/llama-4-scout-17b-16e-instruct",
+      "csv_name": "llama4_17b"
     },
     "llama3-70b": {
       "display_name": "Llama 3.3",
-      "technical_name": "llama-3.3-70b-versatile"
+      "technical_name": "llama-3.3-70b-versatile",
+      "csv_name": "llama3_70b"
     },
     "gemma2-9b": {
       "display_name": "Gemma 2:9B",
-      "technical_name": "gemma2-9b-it"
+      "technical_name": "gemma2-9b-it",
+      "csv_name": "gemma2_9b"
     }
   },
   "prompts": {
