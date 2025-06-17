@@ -1,0 +1,4 @@
+date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_9b,mean_score,is_winner
+2025-06-17,Golden sunset fades<br><br><br>Ripples on the quiet lake<br><br><br>Summer's gentle peace,Llama 4 Scout,4,4,5,4.33,FALSE
+2025-06-17,Snowflakes gently fall  <br>Blanketing the winter scene  <br>Frosty morning calm,Llama 3.3,5,5,4,4.67,TRUE
+2025-06-17,"Soft wind whispers low,<br>Cherry blossoms dance and fall,<br>Spring's gentle embrace.",Gemma 2:9B,4,5,5,4.67,FALSE
