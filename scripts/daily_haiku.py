@@ -4,6 +4,7 @@ from datetime import date
 import os
 import json
 import logging
+import polars as pl
 import sys
 import string_utils
 from github import Github
@@ -53,14 +54,14 @@ def groq(model: str, prompt: str, sysprompt='', temperature=0.8) -> str:
     return completion.choices[0].message.content
 
 
-def get_rated_haikus():
+def get_rated_haikus(recent_winning_haikus):
     """Generates haikus and uses AI models to rate them on a specified scale."""
+    contextual_prompt = f'{config['prompts']['generate_haiku']} These are previously generated haikus: {recent_winning_haikus}. You must avoid repeating the themes and specific phrases from these examples.'
     haikus = [
         groq(
             config['models'][model]['technical_name'],
-            config['prompts']['generate_haiku'],
-        )
-        for model in config['models']
+            contextual_prompt,
+        ) for model in config['models']
     ]
     haikus_rated = [
         groq(
@@ -284,7 +285,13 @@ if __name__ == "__main__":
     script_runner_login = g.get_user().login
     logging.info('Script is running as (authenticated user): %s.', script_runner_login)
 
-    haikus, haikus_rated = get_rated_haikus()
+    recent_haikus_of_the_day = pl.read_csv(config['paths']['history']) \
+                                .filter(pl.col('is_winner') == 'true') \
+                                .select('haiku') \
+                                .tail(3) \
+                                .to_dict(as_series=False)['haiku']
+    
+    haikus, haikus_rated = get_rated_haikus(recent_haikus_of_the_day)
     haikus_rated_list = [json.loads(haiku_rating) for haiku_rating in haikus_rated]
     haikus_rated_avgs = aggregate_scores(haikus_rated_list)
     winning_haiku_idx = max(haikus_rated_avgs, key=haikus_rated_avgs.get)
