@@ -11,3 +11,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-06-20,Snowflakes gently fall<br>Blanketing the winter scene<br>Frosty peaceful hush,Llama 4 Scout,5,5,4,4.67,TRUE
 2025-06-20,Snowflakes gently fall  <br>Blanketing the winter scene  <br>Frosty morning dawns,Llama 3.3,4,4,3,3.67,FALSE
 2025-06-20,"Soft wind whispers low<br>Through leaves of crimson, gold, brown<br>Autumn's gentle touch. <br><br>",Gemma 2:9B,4,5,5,4.67,FALSE
+2025-06-21,Soft petals unfurl<br>Dancing in the warm breeze sweet<br>Morning's gentle kiss,Llama 4 Scout,4,4,5,4.33,TRUE
+2025-06-21,Moonlight on the sea<br>Waves caress the sandy shore<br>Midnight's gentle song,Llama 3.3,4,5,4,4.33,FALSE
+2025-06-21,Cherry blossoms bloom<br><br>Pink snow falls on ancient ground<br><br>Spring's sweet breath arrives <br><br>,Gemma 2:9B,3,2,3,2.67,FALSE
