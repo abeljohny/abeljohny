@@ -311,7 +311,11 @@ if __name__ == "__main__":
     haikus, haikus_rated = get_rated_haikus(recent_haikus_of_the_day)
     haikus_rated_list = [json.loads(haiku_rating) for haiku_rating in haikus_rated]
     haikus_rated_avgs, haikus_rated_stds = aggregate_scores(haikus_rated_list)
-    winning_haiku_idx = max(haikus_rated_avgs, key=haikus_rated_avgs.get)
+    potential_winners = [k for k, avg in haikus_rated_avgs.items() if avg == max(haikus_rated_avgs.values())]
+    if len(potential_winners) > 1:
+        winning_haiku_idx = min(potential_winners, key=lambda key: haikus_rated_stds[key])
+    else:
+        winning_haiku_idx = potential_winners[0]
     haiku_of_the_day = haikus[winning_haiku_idx]
 
     add_text_to_gif(
