@@ -288,7 +288,7 @@ if __name__ == "__main__":
     recent_haikus_of_the_day = pl.read_csv(config['paths']['history']) \
                                 .filter(pl.col('is_winner') == 'true') \
                                 .select('haiku') \
-                                .tail(3) \
+                                .tail(8) \
                                 .to_dict(as_series=False)['haiku']
     
     haikus, haikus_rated = get_rated_haikus(recent_haikus_of_the_day)
