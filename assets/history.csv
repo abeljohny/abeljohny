@@ -14,3 +14,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-06-27,<br><br>City streets alive <br><br><br>Neon lights reflect the soul <br><br><br>Urban heartbeat sounds,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2025-06-27,Morning forest deep <br>Ancient trees their vigil keep <br>Nature's silent heart,Llama 3.3,5,5,5,5.0,0.0,TRUE
 2025-06-27,Cherry blossoms bloom<br><br>Pink petals drift on the breeze<br><br>Spring's sweet fragrance sighs,Gemma 2:9B,3,4,4,3.67,0.5774,FALSE
+2025-06-28,City streets alive<br>Neon lights reflect in puddles<br>Rainy night's rhythm,Llama 4 Scout,4,5,3,4.0,1.0,FALSE
+2025-06-28,River's gentle voice  <br>Echoes through the city night  <br>Summer's gentle breeze,Llama 3.3,4,4,4,4.0,0.0,TRUE
+2025-06-28,"Grey clouds gather close <br><br>Raindrops begin to descend<br><br>Earth drinks, clean and cool",Gemma 2:9B,5,3,4,4.0,1.0,FALSE
