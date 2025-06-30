@@ -17,3 +17,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-06-28,City streets alive<br>Neon lights reflect in puddles<br>Rainy night's rhythm,Llama 4 Scout,4,5,3,4.0,1.0,FALSE
 2025-06-28,River's gentle voice  <br>Echoes through the city night  <br>Summer's gentle breeze,Llama 3.3,4,4,4,4.0,0.0,TRUE
 2025-06-28,"Grey clouds gather close <br><br>Raindrops begin to descend<br><br>Earth drinks, clean and cool",Gemma 2:9B,5,3,4,4.0,1.0,FALSE
+2025-06-30,Whispers of the wind<br>Dance of shadows on the wall<br>Midnight's secret smile,Llama 4 Scout,4,4,4,4.0,0.0,TRUE
+2025-06-30,Silent canyon walls  <br>Shadows dance upon the rock  <br>Midnight's dark delight,Llama 3.3,5,4,3,4.0,1.0,FALSE
+2025-06-30,Rain on thirsty earth  <br>A symphony of soft drops  <br>Life begins anew <br>,Gemma 2:9B,3,3,2,2.67,0.5774,FALSE
