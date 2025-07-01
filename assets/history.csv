@@ -20,3 +20,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-06-30,Whispers of the wind<br>Dance of shadows on the wall<br>Midnight's secret smile,Llama 4 Scout,4,4,4,4.0,0.0,TRUE
 2025-06-30,Silent canyon walls  <br>Shadows dance upon the rock  <br>Midnight's dark delight,Llama 3.3,5,4,3,4.0,1.0,FALSE
 2025-06-30,Rain on thirsty earth  <br>A symphony of soft drops  <br>Life begins anew <br>,Gemma 2:9B,3,3,2,2.67,0.5774,FALSE
+2025-07-01,Soft petals unfurl<br>Dewdrops sparkle on my skin<br>Summer's gentle kiss,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2025-07-01,Silent monastery <br>Shadows cast by candlelight <br>Contemplation deep,Llama 3.3,5,5,4,4.67,0.5774,FALSE
+2025-07-01,Crimson leaves take flight<br>Dancing on a crisp breeze's breath<br>Autumn's vibrant art <br><br>,Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
