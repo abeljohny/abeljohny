@@ -29,3 +29,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-07-03,Fading city's glow<br>Shadows hide the evening star<br>Lonely twilight sky,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2025-07-03,Vibrant city streets <br>Flavors of diverse delight <br>Urban heartbeat strong <br><br><br> Forgotten alleyway <br>Shadows hide the past stories <br>Secrets left behind <br><br><br> Evening's ember glow <br>Stars appear in darkening <br>Twilight's gentle sigh,Llama 3.3,3,2,3,2.67,0.5774,FALSE
 2025-07-03,Red leaves twist and turn  <br><br>Dancing down on windswept breeze <br><br>Autumn's vibrant hue,Gemma 2:9B,5,3,5,4.33,1.1547,TRUE
+2025-07-04,Moonbeams on the stone  <br>Shadows weave a silent spell  <br>Night's unspoken peace,Llama 4 Scout,5,5,4,4.67,0.5774,TRUE
+2025-07-04,"Morning's city sound<br><br>Subway rhythms, heartbeat fast<br><br>Urban life begins",Llama 3.3,4,4,3,3.67,0.5774,FALSE
+2025-07-04,City lights ignite  <br><br>Painting shadows on the street <br><br>Night comes alive now,Gemma 2:9B,3,3,2,2.67,0.5774,FALSE
