@@ -47,3 +47,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-07-11,Softly buzzing bees<br>Golden light on velvet wings<br>Summer's sweet delight,Llama 4 Scout,5,5,4,4.67,0.5774,TRUE
 2025-07-11,Vibrant colors rise<br><br>Morning's tapestry unfurls<br><br>Beauty's gentle mark,Llama 3.3,4,4,5,4.33,0.5774,FALSE
 2025-07-11,"Storm clouds gather dark  <br>Thunder roars, a crack of light<br>Raindrops start to fall <br><br><br>",Gemma 2:9B,3,3,3,3.0,0.0,FALSE
+2025-07-12,Crimson sunrise high<br>Golden light on dewy spider<br>Morning's tiny king,Llama 4 Scout,4,5,4,4.33,0.5774,TRUE
+2025-07-12,"Tranquil evening sky <br><br>Stars and darkness, infinite <br><br>Cosmic gentle night",Llama 3.3,5,4,3,4.0,1.0,FALSE
+2025-07-12,White clouds drift on high<br>A lone bird sings a sweet song<br>Sky a boundless blue <br><br><br>,Gemma 2:9B,3,3,2,2.67,0.5774,FALSE
