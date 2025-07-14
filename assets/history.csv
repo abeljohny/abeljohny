@@ -53,3 +53,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-07-13,Frosty library <br>Dusty pages turning slow <br>Knowledge's quiet seat,Llama 4 Scout,4,4,4,4.0,0.0,TRUE
 2025-07-13,Blossoms of silence <br>Forgotten paths unfolding <br>Secrets in the earth,Llama 3.3,4,5,3,4.0,1.0,FALSE
 2025-07-13,"Raindrops softly fall<br>Washing dust from thirsty leaves<br>Earth drinks, sighs with peace <br><br>",Gemma 2:9B,3,3,2,2.67,0.5774,FALSE
+2025-07-14,Soft candlelight gleams<br>Shadows on the ancient wall<br>Wisdom's quiet flame,Llama 4 Scout,5,5,4,4.67,0.5774,TRUE
+2025-07-14,"Velvet night descends <br>Stars and darkness, infinite <br>Cosmic lullaby",Llama 3.3,4,5,5,4.67,0.5774,FALSE
+2025-07-14,"Cool rain on the roof<br>Drumming softly, a gentle sound<br>Earth drinks deeply now <br><br>",Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
