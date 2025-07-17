@@ -59,3 +59,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-07-16,Glowing embers fade  <br>Shadows dance upon the wall  <br>Winter's quiet sleep,Llama 4 Scout,4,4,5,4.33,0.5774,TRUE
 2025-07-16,"Vibrant marketplace<br>Colors, textures, scents abound<br>Life's diverse tapestry<br><br>Turquoise ocean waves<br>Foam and spray upon my skin<br>Serenity found<br><br>Starlight on the hill<br>Twinkling diamonds in the vast<br>Cosmic gentle song",Llama 3.3,3,3,4,3.33,0.5774,FALSE
 2025-07-16,First frost kisses ground<br>Leaves in fiery hues descend<br>Winter whispers near <br><br>,Gemma 2:9B,4,4,3,3.67,0.5774,FALSE
+2025-07-17,Softly pulsing fog<br>Shadows hide the mountain's face<br>Mystery's vast sea,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
+2025-07-17,Vibrant feathers dance  <br>Rainbow hues upon the wing  <br>Freedom's gentle form<br><br>Turquoise waters deep  <br>Glittering jewels in the sand  <br>Ocean's hidden world<br><br>Midnight's starry sky  <br>Diamonds twinkling in the vast  <br>Cosmic gentle hum,Llama 3.3,3,1,3,2.33,1.1547,FALSE
+2025-07-17,"Clear sky, stars ignite<br>Diamond dust sprinkled above<br>Night breathes, silent calm<br><br>",Gemma 2:9B,5,4,5,4.67,0.5774,TRUE
