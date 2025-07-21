@@ -68,3 +68,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-07-19,Lone butterfly<br>Dancing in the orchard bloom<br>Summer's tender joy,Llama 4 Scout,4,5,4,4.33,0.5774,TRUE
 2025-07-19,"Vibrant marketplace<br>Colors, scents, and sounds abound<br>Joy in every find",Llama 3.3,3,4,5,4.0,1.0,FALSE
 2025-07-19,Cool breeze on my face<br>Sun-warmed earth beneath my feet<br>Joy in simple things,Gemma 2:9B,3,5,3,3.67,1.1547,FALSE
+2025-07-21,Softly flows the stream<br>Ripples shimmer on the sand<br>Morning's subtle song,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2025-07-21,Vibrant market sounds<br><br>Colorful fabrics swaying free<br>Global heartbeat strong,Llama 3.3,3,4,4,3.67,0.5774,FALSE
+2025-07-21,"Clouds drift, slow and white  <br>Sun paints golden stripes below  <br>World awakes to warmth<br>",Gemma 2:9B,4,5,3,4.0,1.0,FALSE
