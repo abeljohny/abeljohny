@@ -74,3 +74,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-07-22,Moonlit kitchen floor  <br>Shadows dance with midnight crumbs  <br>Lonely late night meal,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2025-07-22,"Vibrant market sounds<br><br>Colors dancing, spices sweet<br>Life in every breath",Llama 3.3,5,5,5,5.0,0.0,TRUE
 2025-07-22,Raindrops kiss the leaves<br>A symphony of soft sounds<br>Earth drinks in the rain <br><br>,Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
+2025-07-24,Golden light ascends<br>Ripples on the quiet lake<br>Serenity's lap,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2025-07-24,Forgotten pathways<br><br>Vines entwined with ancient gates<br>Secrets left behind,Llama 3.3,5,4,4,4.33,0.5774,FALSE
+2025-07-24,Wistful clouds drift by<br>Across the azure canvas<br>Silence fills the air <br><br>,Gemma 2:9B,3,3,3,3.0,0.0,FALSE
