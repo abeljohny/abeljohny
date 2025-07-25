@@ -77,3 +77,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-07-24,Golden light ascends<br>Ripples on the quiet lake<br>Serenity's lap,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2025-07-24,Forgotten pathways<br><br>Vines entwined with ancient gates<br>Secrets left behind,Llama 3.3,5,4,4,4.33,0.5774,FALSE
 2025-07-24,Wistful clouds drift by<br>Across the azure canvas<br>Silence fills the air <br><br>,Gemma 2:9B,3,3,3,3.0,0.0,FALSE
+2025-07-25,Moonlit library <br><br>Shadows hide the pages worn <br><br>Knowledge's gentle hush,Llama 4 Scout,4,5,4,4.33,0.5774,TRUE
+2025-07-25,Blossoming darkness  <br>Secrets hidden in the bloom  <br>Midnight's gentle throne,Llama 3.3,4,4,3,3.67,0.5774,FALSE
+2025-07-25,Cool breeze whispers soft<br>Through the leaves of ancient trees<br>Autumn's gentle touch. <br><br>,Gemma 2:9B,3,5,4,4.0,1.0,FALSE
