@@ -86,3 +86,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-07-30,Softly fades the fog<br>Ripples on the quiet canal<br>Morning's pale delight,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2025-07-30,Blossoming garden <br>Vibrant tapestry of scent <br>Perfumed gentle kiss,Llama 3.3,3,5,4,4.0,1.0,FALSE
 2025-07-30,"Raindrops on the roof<br>Hum a quiet, steady tune<br>Earth drinks deep and sighs <br><br>",Gemma 2:9B,2,4,3,3.0,1.0,FALSE
+2025-08-01,Silent temple bells<br>Echoes through the misty hills<br>Morning's gentle tone,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
+2025-08-01,Blossoming orchard  <br>Scent of ripened fruit sweet  <br>Nature's vibrant taste <br><br>Freshly cut grass smell  <br>Earth's richness in each breath  <br>Growth in every step <br><br>Tranquil evening sky  <br>Stars shining with gentle spark  <br>Cosmic lullaby,Llama 3.3,2,1,3,2.0,1.0,FALSE
+2025-08-01,"Cherry blossoms drift<br>Pink snow upon the soft earth<br>Spring's sweet, gentle breath<br>",Gemma 2:9B,5,4,5,4.67,0.5774,TRUE
