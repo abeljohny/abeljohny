@@ -89,3 +89,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-08-01,Silent temple bells<br>Echoes through the misty hills<br>Morning's gentle tone,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
 2025-08-01,Blossoming orchard  <br>Scent of ripened fruit sweet  <br>Nature's vibrant taste <br><br>Freshly cut grass smell  <br>Earth's richness in each breath  <br>Growth in every step <br><br>Tranquil evening sky  <br>Stars shining with gentle spark  <br>Cosmic lullaby,Llama 3.3,2,1,3,2.0,1.0,FALSE
 2025-08-01,"Cherry blossoms drift<br>Pink snow upon the soft earth<br>Spring's sweet, gentle breath<br>",Gemma 2:9B,5,4,5,4.67,0.5774,TRUE
+2025-08-02,Rustic gate creaks slow<br><br>Shadows on the forgotten<br><br>Autumn's quiet gate,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
+2025-08-02,Tranquil village night <br>Stars reflected in the well <br>Calmness in the depth <br><br>Softly blooms the vine <br>Fragrant scents in morning air <br>Summer's hidden charm <br><br> Gentle brook's lament <br>Echoes through the deserted <br>Valley's lonely heart,Llama 3.3,3,2,3,2.67,0.5774,FALSE
+2025-08-02,Ocean breeze whispers<br>Salty tang on sun-warmed skin<br>Seashells at my feet,Gemma 2:9B,5,5,4,4.67,0.5774,TRUE
