@@ -98,3 +98,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-08-08,<br> <br>Rustic gate creaks slow <br><br> <br>Forgotten paths await <br><br> <br>Twilight's gentle soul,Llama 4 Scout,4,4,4,4.0,0.0,TRUE
 2025-08-08,Freshly cut grass scent  <br>Earth's fragrance after rain  <br>Morning's simple charm <br><br>Glistening icicles  <br>Refracting morning's colors  <br>Winter's icy kiss <br><br> Forgotten alleyway  <br>Streetlamp's glow on wet pavement  <br>City's hidden soul,Llama 3.3,3,5,4,4.0,1.0,FALSE
 2025-08-08,Cool breeze through the trees<br>Whispers secrets to the leaves<br>Autumn's gentle sigh <br><br>,Gemma 2:9B,4,4,3,3.67,0.5774,FALSE
+2025-08-09,Softly glows the lava<br>Glowing rocks on distant shore<br>Nature's burning core,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
+2025-08-09,Blossoming orchard  <br>Scents of blooming fruits abound  <br>Nature's vibrant pulse<br><br>Gentle morning breeze  <br>Rustling leaves of forgotten  <br>Memories awaken<br><br>Softly glowing night  <br>Fireflies' soft serenade  <br>Summer's gentle heart,Llama 3.3,3,3,3,3.0,0.0,FALSE
+2025-08-09,First snow falls softly<br>Blanketing the world in white<br>Silence fills the air <br><br>,Gemma 2:9B,4,5,5,4.67,0.5774,TRUE
