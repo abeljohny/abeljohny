@@ -101,3 +101,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-08-09,Softly glows the lava<br>Glowing rocks on distant shore<br>Nature's burning core,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2025-08-09,Blossoming orchard  <br>Scents of blooming fruits abound  <br>Nature's vibrant pulse<br><br>Gentle morning breeze  <br>Rustling leaves of forgotten  <br>Memories awaken<br><br>Softly glowing night  <br>Fireflies' soft serenade  <br>Summer's gentle heart,Llama 3.3,3,3,3,3.0,0.0,FALSE
 2025-08-09,First snow falls softly<br>Blanketing the world in white<br>Silence fills the air <br><br>,Gemma 2:9B,4,5,5,4.67,0.5774,TRUE
+2025-08-10,"Whispers of the loom<br>Threads of silver, woven dark<br>Moonlight's subtle hue",Llama 4 Scout,4,4,5,4.33,0.5774,TRUE
+2025-08-10,Violet twilight sky  <br>Shadows hide the forest deep  <br>Mystery remains,Llama 3.3,4,5,4,4.33,0.5774,FALSE
+2025-08-10,"Cool wind through the trees<br>Leaves of scarlet, gold and brown<br>Autumn's vibrant sigh <br><br>",Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
