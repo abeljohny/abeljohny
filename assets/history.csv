@@ -104,3 +104,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-08-10,"Whispers of the loom<br>Threads of silver, woven dark<br>Moonlight's subtle hue",Llama 4 Scout,4,4,5,4.33,0.5774,TRUE
 2025-08-10,Violet twilight sky  <br>Shadows hide the forest deep  <br>Mystery remains,Llama 3.3,4,5,4,4.33,0.5774,FALSE
 2025-08-10,"Cool wind through the trees<br>Leaves of scarlet, gold and brown<br>Autumn's vibrant sigh <br><br>",Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
+2025-08-11,Softly glows the lantern<br>Shadows weave a mystic spell<br>Moonlit forest deep,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
+2025-08-11,Tranquil morning lake <br>Ripples caused by jumping fish <br>Serenity found,Llama 3.3,5,4,5,4.67,0.5774,TRUE
+2025-08-11,"Cool breeze whispers soft,<br>Leaves of crimson dance and fall,<br>Autumn's gentle sigh. <br><br>",Gemma 2:9B,3,5,4,4.0,1.0,FALSE
