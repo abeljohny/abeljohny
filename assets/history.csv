@@ -116,3 +116,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-08-16,Softly glows the lava<br>Glowing embers on the sand<br>Nature's warm delight,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2025-08-16,Ancient ruins sleep  <br>Vines entwined in forgotten <br>Mystery remains,Llama 3.3,5,5,5,5.0,0.0,TRUE
 2025-08-16,Cool breeze through the trees <br><br>Whispering secrets untold  <br><br>Nature's gentle sigh <br><br>,Gemma 2:9B,3,3,3,3.0,0.0,FALSE
+2025-08-18,Softly glows the lava<br>Golden light on darkest night<br>Nature's fierce delight,Llama 4 Scout,5,5,4,4.67,0.5774,TRUE
+2025-08-18,Freshly sharpened pencils <br>Graphite scent on eager hands <br>Learning's sharp delight<br><br>Softly worn denim <br>Faded threads on comfortable <br>Memories embedded<br><br>Hidden attic trunk <br>Forgotten stories in the dust <br>Nostalgia's keep,Llama 3.3,4,4,3,3.67,0.5774,FALSE
+2025-08-18,Clouds drift on the wind<br>Painting skies in cotton hues<br>Autumn whispers near<br><br>,Gemma 2:9B,3,5,3,3.67,1.1547,FALSE
