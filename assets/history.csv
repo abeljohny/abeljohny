@@ -122,3 +122,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-08-19,Softly swirls the fog<br>Gray mist veils the city's heart<br>Morning's subtle mask,Llama 4 Scout,5,5,4,4.67,0.5774,FALSE
 2025-08-19,"Frozen waterfall  <br>River's secret, hidden voice  <br>Winter's silent keep",Llama 3.3,5,5,5,5.0,0.0,TRUE
 2025-08-19,"Cold wind whispers low<br>Through bare branches, leaves long gone<br>Winter's breath draws near <br><br>",Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
+2025-08-20,"Softly glows the forge<br>Hammers ringing, shaping dreams<br>Passion's fiery soul",Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2025-08-20,Purple iris sways  <br>Delicate as a secret  <br>Summer's gentle kiss,Llama 3.3,5,5,4,4.67,0.5774,FALSE
+2025-08-20,Amber leaves take flight  <br>Crimson dance across the breeze<br>Autumn whispers fall<br>,Gemma 2:9B,3,1,3,2.33,1.1547,FALSE
