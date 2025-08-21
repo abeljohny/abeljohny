@@ -125,3 +125,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-08-20,"Softly glows the forge<br>Hammers ringing, shaping dreams<br>Passion's fiery soul",Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2025-08-20,Purple iris sways  <br>Delicate as a secret  <br>Summer's gentle kiss,Llama 3.3,5,5,4,4.67,0.5774,FALSE
 2025-08-20,Amber leaves take flight  <br>Crimson dance across the breeze<br>Autumn whispers fall<br>,Gemma 2:9B,3,1,3,2.33,1.1547,FALSE
+2025-08-21,Softly drifts the fog  <br>Moonlit whispers on the hills  <br>Mystery enfolds,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2025-08-21,Velvet darkness falls <br>Stars and shadows intertwine <br>Cosmic lullaby,Llama 3.3,5,5,4,4.67,0.5774,FALSE
+2025-08-21,Sun dips below hills<br>Painting clouds in shades of rose<br>Daylight softly sighs <br>,Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
