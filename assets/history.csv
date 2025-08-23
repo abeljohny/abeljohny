@@ -131,3 +131,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-08-22,Softly ripens peach<br>Golden light on tender skin<br>Summer's sweetest bite,Llama 4 Scout,5,5,5,5.0,0.0,TRUE
 2025-08-22,Gentle bamboo sways <br>Morning light on tender shoots <br>Nature's subtle dance <br><br>Softly spoken tales <br>Ancient stories on the wind <br> Forgotten lore <br><br>Quiet village night <br>Stars reflected in the well <br>Peaceful darkness shines,Llama 3.3,4,4,3,3.67,0.5774,FALSE
 2025-08-22,Cool rain on the roof<br>A gentle drumming lullaby<br>Sleep descends softly<br><br>,Gemma 2:9B,5,5,4,4.67,0.5774,FALSE
+2025-08-23,Silent morning dew<br>Glistens on the lotus leaf<br>Nature's subtle charm,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
+2025-08-23,"Night's dark, velvet cloak <br>Stars and shadows, silence deep <br>Universe's vast sleep",Llama 3.3,5,5,5,5.0,0.0,TRUE
+2025-08-23,Winter's icy breath<br>Paints the glass with frosty art<br>Silence holds its world <br>,Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
