@@ -134,3 +134,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-08-23,Silent morning dew<br>Glistens on the lotus leaf<br>Nature's subtle charm,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
 2025-08-23,"Night's dark, velvet cloak <br>Stars and shadows, silence deep <br>Universe's vast sleep",Llama 3.3,5,5,5,5.0,0.0,TRUE
 2025-08-23,Winter's icy breath<br>Paints the glass with frosty art<br>Silence holds its world <br>,Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
+2025-08-24,Amber coffee warms<br>Golden light on morning fog<br>Comfort's simple joy,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
+2025-08-24,Evening's misty veil <br>Shadows dance upon the lake <br>Nature's subtle sigh,Llama 3.3,4,5,5,4.67,0.5774,TRUE
+2025-08-24,"Raindrops on the roof<br><br>A quiet rhythm starts to play<br><br>World slows, breathes in peace<br><br>",Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
