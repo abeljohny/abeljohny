@@ -140,3 +140,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-08-25,Softly glows the tea<br>Golden warmth on winter's hands<br>Comfort's quiet cup,Llama 4 Scout,5,5,5,5.0,0.0,TRUE
 2025-08-25,"Gentle morning haze <br>Sunbeams filter, slow and cold <br>Winter's icy kiss",Llama 3.3,4,5,4,4.33,0.5774,FALSE
 2025-08-25,Autumn leaves descend<br>Crimson dance upon the breeze<br>Winter whispers near<br><br>,Gemma 2:9B,3,1,3,2.33,1.1547,FALSE
+2025-08-26,Whispers of the gate<br>Shadows weave a silent path<br>Midnight's gentle slope,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
+2025-08-26,Turquoise waves crash strong <br>Foam and salt on weathered wood <br>Ocean's rugged song,Llama 3.3,5,5,5,5.0,0.0,TRUE
+2025-08-26,"Sun dips, paints the sky <br><br>Crimson, gold, and violet blend<br><br>Night's soft cloak descends <br><br>",Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
