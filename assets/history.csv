@@ -143,3 +143,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-08-26,Whispers of the gate<br>Shadows weave a silent path<br>Midnight's gentle slope,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
 2025-08-26,Turquoise waves crash strong <br>Foam and salt on weathered wood <br>Ocean's rugged song,Llama 3.3,5,5,5,5.0,0.0,TRUE
 2025-08-26,"Sun dips, paints the sky <br><br>Crimson, gold, and violet blend<br><br>Night's soft cloak descends <br><br>",Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
+2025-08-27,Whispers of the cave<br>Shadows dance upon the stone<br>Mystery below,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
+2025-08-27,Fractured light descends <br>Shattered remnants of the sun <br>Twilight's disjointed,Llama 3.3,4,5,5,4.67,0.5774,TRUE
+2025-08-27,Cool breeze through the reeds<br>Whispers secrets to the stream<br>Summer's gentle touch <br><br>,Gemma 2:9B,3,3,3,3.0,0.0,FALSE
