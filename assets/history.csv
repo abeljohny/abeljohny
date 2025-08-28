@@ -146,3 +146,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-08-27,Whispers of the cave<br>Shadows dance upon the stone<br>Mystery below,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2025-08-27,Fractured light descends <br>Shattered remnants of the sun <br>Twilight's disjointed,Llama 3.3,4,5,5,4.67,0.5774,TRUE
 2025-08-27,Cool breeze through the reeds<br>Whispers secrets to the stream<br>Summer's gentle touch <br><br>,Gemma 2:9B,3,3,3,3.0,0.0,FALSE
+2025-08-28,Softly glows the seed<br>Green shoots bursting from the earth<br>Summer's hidden birth,Llama 4 Scout,5,5,4,4.67,0.5774,TRUE
+2025-08-28,Gentle morning breath <br>Forgotten paths unwind slow <br>Nature's subtle wake,Llama 3.3,4,5,5,4.67,0.5774,FALSE
+2025-08-28,"Cool breeze whispers soft<br>Leaves of crimson, gold, and brown<br>Autumn's gentle sigh<br><br>",Gemma 2:9B,3,4,4,3.67,0.5774,FALSE
