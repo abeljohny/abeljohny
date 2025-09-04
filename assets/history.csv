@@ -164,3 +164,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-09-03,Softly glows the rain<br>Calming city's metal heart<br>Nature's gentle song,Llama 4 Scout,4,4,4,4.0,0.0,TRUE
 2025-09-03,"Softly blooms the vine <br>Tendrils curling, leaves unfurl <br>Garden's hidden heart <br><br>Morning's subtle spice <br>Aroma wafting, senses keen <br>Coffee's warm delight <br><br>Evening's soft cascade <br>Waterfall's melodic voice <br>Serenity's shade",Llama 3.3,3,2,4,3.0,1.0,FALSE
 2025-09-03,Sunrise paints the sky<br><br>Golden hues on distant hills<br><br>Daybreak's silent song <br><br>,Gemma 2:9B,4,3,3,3.33,0.5774,FALSE
+2025-09-04,Softly glows the clay  <br>Potter's hands shaping the form  <br>Art's quiet rebirth,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
+2025-09-04,Bamboo sways gently <br>Shadows hide the forest depth <br>Nature's subtle beat,Llama 3.3,5,5,5,5.0,0.0,TRUE
+2025-09-04,"Sunlight paints the leaves<br>Amber, gold, and crimson hues<br>Autumn's gentle dance<br><br>",Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
