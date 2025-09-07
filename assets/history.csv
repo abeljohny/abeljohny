@@ -173,3 +173,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-09-06,Whispers on the wind<br><br>Shadows dance upon the trees<br><br>Autumn's quiet heart,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2025-09-06,Vibrant feathers shine <br>Rainbow hues upon the wing <br>Morning's swift delight,Llama 3.3,5,5,5,5.0,0.0,TRUE
 2025-09-06,Bare branches reach high<br>Whispering tales to the wind<br>Winter's silent song <br><br>,Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
+2025-09-07,Softly glows the pearl<br>Moonlit ripples on the deep<br>Ocean's silent core,Llama 4 Scout,5,5,4,4.67,0.5774,TRUE
+2025-09-07,"Abandoned carousel <br>Creaky horses, rusty chains <br>Forgotten delight",Llama 3.3,4,4,3,3.67,0.5774,FALSE
+2025-09-07,Cool wind whispers soft  <br>Through leaves of crimson and gold<br>Autumn's gentle sigh <br><br>,Gemma 2:9B,3,3,4,3.33,0.5774,FALSE
