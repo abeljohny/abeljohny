@@ -176,3 +176,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-09-07,Softly glows the pearl<br>Moonlit ripples on the deep<br>Ocean's silent core,Llama 4 Scout,5,5,4,4.67,0.5774,TRUE
 2025-09-07,"Abandoned carousel <br>Creaky horses, rusty chains <br>Forgotten delight",Llama 3.3,4,4,3,3.67,0.5774,FALSE
 2025-09-07,Cool wind whispers soft  <br>Through leaves of crimson and gold<br>Autumn's gentle sigh <br><br>,Gemma 2:9B,3,3,4,3.33,0.5774,FALSE
+2025-09-08,Whispers of the wind<br>Shadows weave a subtle spell<br>Nature's quiet heart,Llama 4 Scout,4,5,4,4.33,0.5774,TRUE
+2025-09-08,Ancient forest heart <br>Moss and ferns in secret sleep <br>Nature's mystic pulse <br><br>Silent archer stands <br>Moonlight on the tautened string <br>Midnight's hidden aim <br><br>Frozen moment stays <br>Rime and frost on winter's breath <br>Crisp air's sharp delight,Llama 3.3,3,1,3,2.33,1.1547,FALSE
+2025-09-08,Silver moonbeams bathe <br><br>Ancient forest in soft light <br><br>Whispers fill the air <br><br>,Gemma 2:9B,4,4,4,4.0,0.0,FALSE
