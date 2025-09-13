@@ -191,3 +191,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-09-12,Softly glows the flute<br>Moonlit melodies ascend<br>Nature's gentle breeze,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
 2025-09-12,Freshly cut lavender <br>Dancing in the summer air <br>Fleeting scent remains,Llama 3.3,5,4,5,4.67,0.5774,TRUE
 2025-09-12,Silver leaves descend<br><br>Whispering tales on the breeze<br><br>Autumn's gentle sigh<br><br><br><br><br>,Gemma 2:9B,3,1,3,2.33,1.1547,FALSE
+2025-09-13,Softly glows the map<br>Cartographer's careful lines<br>World's quiet outline,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
+2025-09-13,Abandoned carousel <br>Creaky wooden horses sleep <br>Forgotten laughter,Llama 3.3,5,5,5,5.0,0.0,TRUE
+2025-09-13,Sun dips low and red<br>Painting clouds with fiery hues<br>Night's embrace begins<br><br>,Gemma 2:9B,3,3,4,3.33,0.5774,FALSE
