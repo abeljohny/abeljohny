@@ -209,3 +209,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-09-19,Silken threads unfurl <br>Moonlight dancing on the dew <br>Morning's tender kiss,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2025-09-19,Morning's gentle hush  <br>River's voice in secret kept  <br>Nature's hidden face,Llama 3.3,5,5,4,4.67,0.5774,FALSE
 2025-09-19,Silver moonbeams fall<br>Across the sleeping meadow<br>Stars watch silently <br><br>,Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
+2025-09-20,Moonlit garden gate<br>Shadows dance upon the wall<br>Midnight's secret smile,Llama 4 Scout,5,5,4,4.67,0.5774,TRUE
+2025-09-20,"Softly blooms the cactus  <br>Prickly guards of gentle heart  <br>Desert's secret bloom <br><br>Gently sways the reed  <br>River's subtle, whispering song  <br>Nature's hidden voice <br><br>Quietly falls the dusk  <br>Shadows hide the forest's eyes  <br>Twilight's mystic keep",Llama 3.3,4,4,3,3.67,0.5774,FALSE
+2025-09-20,Wandering fireflies<br>Flickering lights on summer night<br>Magic fills the air<br>,Gemma 2:9B,3,5,5,4.33,1.1547,FALSE
