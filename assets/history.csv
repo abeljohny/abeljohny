@@ -215,3 +215,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-09-21,Softly rises smoke<br>Fragrant scents of burning woods<br>Nature's peaceful hush,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2025-09-21,Gossamer curtains <br>Folded whispers of the past <br>Echoes in the mind,Llama 3.3,4,5,4,4.33,0.5774,FALSE
 2025-09-21,Silver moonbeam falls<br>Across the sleeping meadow<br>Stars begin to blink <br><br>,Gemma 2:9B,3,4,2,3.0,1.0,FALSE
+2025-09-22,Softly glows the flute<br>Moonlit melodies whisper<br>Heart's gentle refuge,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
+2025-09-22,Gossamer threads weave  <br>Morning's tapestry unfurls  <br>Hidden world awakes,Llama 3.3,5,5,5,5.0,0.0,TRUE
+2025-09-22,Winter's icy breath<br>Paints the window with its touch<br>Silence holds its peace <br><br>,Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
