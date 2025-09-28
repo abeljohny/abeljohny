@@ -230,3 +230,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-09-26,"Golden light on waves<br>Ripples shimmer, peaceful sound<br>Morning's gentle lap",Llama 4 Scout,4,5,4,4.33,0.5774,TRUE
 2025-09-26,River's gentle voice  <br>Echoes of a distant past  <br>Nature's subtle sigh,Llama 3.3,4,5,3,4.0,1.0,FALSE
 2025-09-26,Cool rain on the roof<br><br>Each drop a whispered melody<br><br>Earth drinks deep and sighs<br> <br><br>,Gemma 2:9B,3,1,2,2.0,1.0,FALSE
+2025-09-28,Softly buzzes bee<br><br>Golden honey on my skin<br><br>Summer's warm delight,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
+2025-09-28,"River's ancient voice<br><br>Echoes of a forgotten age<br>Timeless, slow, and deep",Llama 3.3,5,5,5,5.0,0.0,TRUE
+2025-09-28,"Silver moon above<br><br>Casting shadows, secrets hide<br><br>Night whispers its name",Gemma 2:9B,3,4,3,3.33,0.5774,FALSE
