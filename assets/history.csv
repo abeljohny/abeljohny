@@ -242,3 +242,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-10-07,Amber light fades fast  <br>River's voice in distant hills  <br>Twilight's secret kept,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
 2025-10-07,Morning's frozen breath<br>Frosty crystals on the pane<br>Winter's gentle bite,Llama 3.3,4,5,5,4.67,0.5774,TRUE
 2025-10-07,Crimson leaves descend<br>Whispering tales of seasons past<br>Winter slumber nears<br><br>,Gemma 2:9B,3,1,3,2.33,1.1547,FALSE
+2025-10-08,Softly rises dawn<br>Golden light on misty hills<br>Morning's quiet breath,Llama 4 Scout,5,5,4,4.67,0.5774,TRUE
+2025-10-08,Orange sunsets fade  <br>Lonely seagulls soar on high  <br>Peaceful evening sky,Llama 3.3,4,4,4,4.0,0.0,FALSE
+2025-10-08,Pink clouds blush the sky<br>Whispering dawn's gentle touch<br>New day softly sighs  <br><br><br>,Gemma 2:9B,3,3,3,3.0,0.0,FALSE
