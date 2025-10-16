@@ -17,10 +17,10 @@
       "technical_name": "llama-3.3-70b-versatile",
       "csv_name": "llama3_70b"
     },
-    "openai/gpt-oss-120b": {
-      "display_name": "GPT OSS 120B",
-      "technical_name": "openai/gpt-oss-120b",
-      "csv_name": "gpt_oss_120b"
+    "llama3-8b": {
+      "display_name": "Llama 3.1",
+      "technical_name": "llama-3.1-8b-instant",
+      "csv_name": "llama3_8b"
     }
   },
   "prompts": {
