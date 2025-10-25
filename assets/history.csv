@@ -272,3 +272,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-10-24,Softly glows the flute  <br>Moonlit melodies whisper  <br>Heart's gentle refuge,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
 2025-10-24,Quiet forest pool  <br>Reflections of the trees above  <br>Serene stillness deep,Llama 3.3,5,5,5,5.0,0.0,TRUE
 2025-10-24,Softly falls the sand  <br><br>Ocean's ancient whispers deep  <br><br>Desert's timeless keep,Llama 3.1,4,3,3,3.33,0.5774,FALSE
+2025-10-25,Softly glows the vine<br>Golden tendrils on the wall<br>Summer's secret life,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2025-10-25,"Freshly fallen acorn<br><br>Earth's forgotten, hidden wealth<br>Forest's subtle pride",Llama 3.3,5,4,5,4.67,0.5774,FALSE
+2025-10-25,"Softly falls the night <br><br>Darkness veils the city <br><br>Silent, peaceful heart",Llama 3.1,3,3,2,2.67,0.5774,FALSE
