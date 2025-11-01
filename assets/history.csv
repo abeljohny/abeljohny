@@ -287,3 +287,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-10-30,Softly glows the ember<br>Golden sparks within the ash<br>Winter's final breath,Llama 4 Scout,4,5,4,4.33,0.5774,TRUE
 2025-10-30,Tranquil forest heart<br>Ancient trees in mystic sleep<br>Nature's gentle pulse,Llama 3.3,3,5,5,4.33,1.1547,FALSE
 2025-10-30,Softly wraps the fog <br><br>Shadows dance upon the trees <br><br>Morning's quiet grasp,Llama 3.1,4,5,2,3.67,1.5275,FALSE
+2025-11-01,Softly glows the fog  <br>Misty veils on ancient stones  <br>Morning's hidden path,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
+2025-11-01,Frozen fractals bloom<br>Crystal shards upon the lake<br>Winter's fragile kiss,Llama 3.3,5,5,5,5.0,0.0,TRUE
+2025-11-01,Silent forest floor<br><br>Shadows dance in fading light<br><br>Nature's gentle sleep,Llama 3.1,4,3,3,3.33,0.5774,FALSE
