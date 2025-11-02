@@ -290,3 +290,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-11-01,Softly glows the fog  <br>Misty veils on ancient stones  <br>Morning's hidden path,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2025-11-01,Frozen fractals bloom<br>Crystal shards upon the lake<br>Winter's fragile kiss,Llama 3.3,5,5,5,5.0,0.0,TRUE
 2025-11-01,Silent forest floor<br><br>Shadows dance in fading light<br><br>Nature's gentle sleep,Llama 3.1,4,3,3,3.33,0.5774,FALSE
+2025-11-02,Softly glows the root<br>Ancient wisdom in its core<br>Earth's subtle heartbeat,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2025-11-02,"Rustic wooden door <br>Creaky hinges, stories told <br>Ageless, worn, and wise <br><br>Silent alleyways <br>Lanterns casting shadows deep <br>City's hidden soul <br><br>Forgotten typewriter <br>Dusty keys, forgotten tales <br>Stories left untold",Llama 3.3,3,1,5,3.0,2.0,FALSE
+2025-11-02,"Crisp air on my cheek<br>Frosty mornings, dark and grey<br>Winter's quiet grip",Llama 3.1,4,4,3,3.67,0.5774,FALSE
