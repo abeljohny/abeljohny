@@ -302,3 +302,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-11-05,Softly glows the fog  <br>Misty veils upon the hills  <br>Morning's secret breath,Llama 4 Scout,5,5,5,5.0,0.0,TRUE
 2025-11-05,Orange blossoms sweet <br>Fragrant as the scent of love <br>Summer's gentle kiss,Llama 3.3,4,4,4,4.0,0.0,FALSE
 2025-11-05,Softly falls the snow <br><br>Blanketing the countryside <br>Winter's peaceful hush,Llama 3.1,5,5,4,4.67,0.5774,FALSE
+2025-11-08,Softly shines the quartz  <br>Moonlit shadows on the cave  <br>Mineral heartbeat,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
+2025-11-08,Pearlescent mist rise<br><br>Morning's hidden architecture<br><br>Luminous unfold,Llama 3.3,5,4,5,4.67,0.5774,TRUE
+2025-11-08,Softly falls the silence<br><br>Moonlit shadows dance upon<br><br>Midnight's peaceful form,Llama 3.1,3,5,5,4.33,1.1547,FALSE
