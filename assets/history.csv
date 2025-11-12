@@ -314,3 +314,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-11-11,Softly shines the quartz<br>Moonlit fragments on the sand<br>Desert's gentle hush,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2025-11-11,Snowflakes gently land<br><br>Blanketing the winter scene<br>Frozen peaceful hush,Llama 3.3,3,2,5,3.33,1.5275,FALSE
 2025-11-11,Softly falls the snow<br>Frosty crystals on the wall<br>Winter's peaceful sleep,Llama 3.1,3,4,4,3.67,0.5774,FALSE
+2025-11-12,Softly glows the ink  <br>Midnight scribbles on the page  <br>Creativity's spark,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
+2025-11-12,Snowflakes gently land <br><br>Blanketing the winter scene <br><br>Frosty peaceful sleep,Llama 3.3,5,5,5,5.0,0.0,TRUE
+2025-11-12,Softly falls the snow<br><br>Frosty crystals on the reed<br>Winter's gentle caress,Llama 3.1,5,4,5,4.67,0.5774,FALSE
