@@ -326,3 +326,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-11-15,Softly glows the rain<br>Gentle rhythm on the roof<br>Calming city sounds,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2025-11-15,Morning's copper glow<br>Ripples on the city's face<br>Urban heart's pulse beats,Llama 3.3,4,5,5,4.67,0.5774,TRUE
 2025-11-15,Softly whispers dew<br><br>Morning's gentle kiss upon<br><br>Nature's delicate,Llama 3.1,3,3,3,3.0,0.0,FALSE
+2025-11-16,Softly glows the rain  <br>Gentle rhythm on the roof  <br>Calming city's pulse,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
+2025-11-16,Luminous pathway <br><br>Shadows hide the city's eyes <br><br>Night's gentle whisper,Llama 3.3,4,5,5,4.67,0.5774,TRUE
+2025-11-16,Softly glows the ember<br>Golden sparks within the night<br>Fading summer's warmth,Llama 3.1,5,4,4,4.33,0.5774,FALSE
