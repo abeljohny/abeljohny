@@ -335,3 +335,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-11-20,Softly glows the rain  <br>Raindrops on the windowpane  <br>Calming city's din,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2025-11-20,Whispers of the wind<br><br>Dappled light on forest floor<br>Hidden stories sleep,Llama 3.3,5,5,5,5.0,0.0,TRUE
 2025-11-20,Softly falls the rain  <br><br>Gentle droplets on the roof  <br><br>Calming evening hush,Llama 3.1,3,3,3,3.0,0.0,FALSE
+2025-11-21,Softly glows the ink  <br>Midnight writer's quiet soul  <br>Creativity's spark,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
+2025-11-21,"Fresh as morning birth <br>Sunbeams filter, new-found life <br>Hope renewed again",Llama 3.3,5,5,5,5.0,0.0,TRUE
+2025-11-21,Softly falls the snow <br><br>Frosty crystals on the pane <br> <br>Winter's quiet breath,Llama 3.1,5,4,4,4.33,0.5774,FALSE
