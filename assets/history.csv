@@ -344,3 +344,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-11-23,Lichen on the stone<br>Forgotten stories seep slow<br>Nature's subtle mark,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2025-11-23,"Gentle brook's whisper <br>Rustling leaves in hidden grove <br>Nature's subtle song <br><br>Softly falls the bark <br>Drifting downward, slow and cold <br>Forest's fading sigh <br><br>Quiet village night <br>Stars above the thatched roofs <br>Peaceful darkness falls",Llama 3.3,3,2,1,2.0,1.0,FALSE
 2025-11-23,Softly falls the night <br><br>Shadows dance upon the sea<br><br>Midnight's gentle kiss,Llama 3.1,5,4,5,4.67,0.5774,FALSE
+2025-11-25,Softly ripens peach<br>Golden light on velvet skin<br>Summer's sweet delight,Llama 4 Scout,5,5,5,5.0,0.0,TRUE
+2025-11-25,Morning's darkest shade<br><br>Shadows hiding city streets<br>Night's lingering grasp,Llama 3.3,3,4,4,3.67,0.5774,FALSE
+2025-11-25,Snowflakes gently fall <br>Blanketing the winter scene <br>Frosty peaceful sleep,Llama 3.1,4,5,4,4.33,0.5774,FALSE
