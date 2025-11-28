@@ -350,3 +350,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-11-26,"Moonbeams on the lake<br>Ripples shimmer, silence deep<br>Night's serene refuge",Llama 4 Scout,5,5,5,5.0,0.0,TRUE
 2025-11-26,Morning's gentle whisper <br>Rustic barn doors creaking slow <br>Nature's hidden charm,Llama 3.3,4,4,4,4.0,0.0,FALSE
 2025-11-26,Softly falls the mist  <br><br>Dew-kissed petals unfolding  <br><br>Morning's gentle dance,Llama 3.1,5,5,5,5.0,0.0,FALSE
+2025-11-28,Softly glows the cave<br>Bioluminescent blooms deep<br>Subterranean dream,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2025-11-28,Gentle rainfall soothes  <br>Calming rhythm on the roof  <br>Nature's lullaby<br><br>River's gentle curve  <br>Shadows hide the river's soul  <br>Mystery abounds<br><br>Evening's warm ember  <br>Flickering flames that dance high  <br>Heart's gentle haven,Llama 3.3,3,4,1,2.67,1.5275,FALSE
+2025-11-28,Silent city streets <br><br>Empty chairs beneath the lamp  <br>Lonely urban night,Llama 3.1,4,4,4,4.0,0.0,FALSE
