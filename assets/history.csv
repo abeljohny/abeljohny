@@ -356,3 +356,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-11-30,Softly glows the rain<br>Gentle rhythm on the roof<br>Calming city's sound,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2025-11-30,Gentle morning haze<br>Sunlight filtering through blinds<br>Day's awakening,Llama 3.3,4,5,4,4.33,0.5774,TRUE
 2025-11-30,Fragile ice dissolves <br><br> Gentle waters' whisper <br><br> Morning's fragile dance,Llama 3.1,3,2,2,2.33,0.5774,FALSE
+2025-12-02,Autumn leaves cascade  <br>Golden hues upon the stream  <br>Nature's fleeting dance,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2025-12-02,Ocean's dark abyss <br>Glowing creatures light the way <br>Mystery's dark depths,Llama 3.3,5,4,4,4.33,0.5774,FALSE
+2025-12-02,Silent leaves descend <br><br>Golden light on forest floor <br><br>Nature's gentle sigh,Llama 3.1,5,5,3,4.33,1.1547,FALSE
