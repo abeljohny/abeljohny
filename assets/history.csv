@@ -377,3 +377,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-12-09,Softly glows the tea<br>Golden warmth on winter's stone<br>Comfort's quiet breath,Llama 4 Scout,5,5,5,5.0,0.0,TRUE
 2025-12-09,Snowy village sleeps  <br>Frosted roofs and chimneys cold  <br>Winter's silent keep,Llama 3.3,4,4,5,4.33,0.5774,FALSE
 2025-12-09,Snowflakes gently fall <br><br>Fleeting patterns in the air <br><br>Winter's fragile art,Llama 3.1,5,4,3,4.0,1.0,FALSE
+2025-12-10,Moonlit garden blooms<br>Fragrant jasmine scent unfolds<br>Midnight's sweet surprise,Llama 4 Scout,5,5,5,5.0,0.0,TRUE
+2025-12-10,"Snowy village sleeps <br>Frosty mornings, smoke ascends <br>Winter's gentle grasp",Llama 3.3,4,4,4,4.0,0.0,FALSE
+2025-12-10,Whispers of the night<br>Shadows dance upon the sea<br>Moonlit peaceful wave,Llama 3.1,4,5,2,3.67,1.5275,FALSE
