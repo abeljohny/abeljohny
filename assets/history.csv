@@ -386,3 +386,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-12-13,Softly drifts the cloud  <br>Shadows dance upon the lake  <br>Nature's calm refrain,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2025-12-13,Ocean's dark abyss  <br>Bioluminescent creatures  <br>Mystery abounds deep,Llama 3.3,5,4,5,4.67,0.5774,FALSE
 2025-12-13,Softly breaks the dawn  <br><br>Morning light on dewy grass  <br><br>Peaceful hour's gentle,Llama 3.1,4,4,4,4.0,0.0,FALSE
+2025-12-14,Softly glows the pearl<br>Moonlit ripples on the deep<br>Ocean's silent song,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2025-12-14,River's gentle voice  <br>Soothing echoes on the shore  <br>Peaceful evening sky,Llama 3.3,3,4,4,3.67,0.5774,FALSE
+2025-12-14,Silken spider's thread<br><br>Moonlit fibers weaving dark<br><br>Midnight's gentle grasp,Llama 3.1,5,5,1,3.67,2.3094,FALSE
