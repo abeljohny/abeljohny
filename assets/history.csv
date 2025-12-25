@@ -407,3 +407,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2025-12-24,Softly ripens grain<br>Golden light on rolling hills<br>Summer's warm refrain,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2025-12-24,Morning's fiery blade <br>Cutting through the darkest night <br>New dawn's fierce delight,Llama 3.3,4,4,5,4.33,0.5774,FALSE
 2025-12-24,Softly falls the snow <br><br>Blanketing the forest deep <br><br>Winter's peaceful hush,Llama 3.1,5,5,3,4.33,1.1547,FALSE
+2025-12-25,Softly buzzes bee  <br>Golden honey in the comb  <br>Summer's sweet labor,Llama 4 Scout,4,5,5,4.67,0.5774,FALSE
+2025-12-25,Velvet night unfurls <br>Shadows dance with starry lights <br>Cosmic gentle sway,Llama 3.3,5,5,5,5.0,0.0,TRUE
+2025-12-25,Fading city lights<br><br>Shadows dance upon the wall<br><br>Night's gentle whisper,Llama 3.1,4,4,4,4.0,0.0,FALSE
