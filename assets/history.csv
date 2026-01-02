@@ -428,3 +428,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-01-01,Softly glows the map<br>Cartographer's gentle craft<br>World's subtle outline,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
 2026-01-01,Gossamer threads weave <br>Intricate patterns unfold <br>Nature's subtle lace <br><br>Terra cotta roofs <br>Weathered stories on the wall <br>Village's gentle soul <br><br>Starlight on the vine <br>Ripened fruit in autumn's night <br>Harvest's secret joy,Llama 3.3,3,3,3,3.0,0.0,FALSE
 2026-01-01,Softly falls the night  <br><br>Darkness veils the twinkling  <br><br>Cosmic quiet hush,Llama 3.1,5,5,5,5.0,0.0,TRUE
+2026-01-02,Softly glows the seed  <br>Tiny sprout within the earth  <br>Life's quiet surprise,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
+2026-01-02,"River's gentle voice<br><br>Soothing waters, heart's solace<br>Peaceful evening sky",Llama 3.3,3,5,5,4.33,1.1547,FALSE
+2026-01-02,Softly falls the snow<br><br>Frozen world in silence deep<br><br>Winter's gentle sleep,Llama 3.1,5,4,5,4.67,0.5774,TRUE
