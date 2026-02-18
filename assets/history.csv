@@ -560,3 +560,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-02-17,Softly ripens wheat<br>Golden light on rolling hills<br>Summer's warm delight,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2026-02-17,Gentle hillside bloom<br>Wildflowers sway in breezy dance<br>Summer's vibrant kiss,Llama 3.3,4,5,5,4.67,0.5774,FALSE
 2026-02-17,Rustic wooden bridge <br><br>River waters gently merge <br><br>Nature's gentle span,Llama 3.1,3,4,3,3.33,0.5774,FALSE
+2026-02-18,Softly glows the canyon<br>Moonlit shadows on the stone<br>Nature's vast whisper,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
+2026-02-18,Moonbeams on the glacier<br>Frozen crystals slowly shift<br>Eternal stillness reigns,Llama 3.3,5,5,5,5.0,0.0,TRUE
+2026-02-18,Gentle morning dew <br><br>Droplets on the leaf's edge <br><br>Nature's quiet kiss,Llama 3.1,5,3,4,4.0,1.0,FALSE
