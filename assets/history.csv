@@ -569,3 +569,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-02-21,Softly glows the flute  <br>Golden notes on morning dew  <br>Music's gentle slope,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2026-02-21,River's evening song<br>Ripples on the sandy beach<br>Peaceful twilight sky,Llama 3.3,3,4,4,3.67,0.5774,FALSE
 2026-02-21,Golden sunsets fade <br><br>Rustic village streets now still <br><br>Night's soft whisper falls,Llama 3.1,5,4,3,4.0,1.0,FALSE
+2026-02-22,Softly glows the canyon  <br>Moonlit shadows on the stone  <br>Nature's ancient song,Llama 4 Scout,4,5,4,4.33,0.5774,TRUE
+2026-02-22,Desert sands ablaze <br>Golden dunes in twilight dance <br>Mystery's dark veil <br><br>Fragrant sagebrush blooms <br>Purple petals swaying free <br>Wilderness' sweet song <br><br>Cosmic darkness falls <br>Stars and planets spinning slow <br>Eternal silence,Llama 3.3,3,2,3,2.67,0.5774,FALSE
+2026-02-22,Silvery mist ascends <br><br>Gentle dawn on mountain peaks <br><br>Morning's quiet hush,Llama 3.1,2,4,5,3.67,1.5275,FALSE
