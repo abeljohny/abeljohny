@@ -599,3 +599,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-03-04,Softly glows the sage<br>Wisdom's whispers on the wind<br>Nature's gentle slope,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
 2026-03-04,Rustic wooden bridge<br>Reflections ripple in the stream<br>Nature's peaceful bend,Llama 3.3,5,4,5,4.67,0.5774,TRUE
 2026-03-04,Softly falls the night<br>Stars align in midnight sky<br>Cosmic silence deep,Llama 3.1,4,5,5,4.67,0.5774,FALSE
+2026-03-05,Softly glows the opal<br><br>Moonlit whispers on the stone's heart<br><br>Mystery's deep core,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2026-03-05,Evening's velvet sky <br>Shadows dance upon the wall <br>Night's enchanting sigh,Llama 3.3,3,4,4,3.67,0.5774,FALSE
+2026-03-05,Softly whispers night<br>Stardust on the velvet sea<br>Cosmic lullaby,Llama 3.1,4,5,2,3.67,1.5275,FALSE
