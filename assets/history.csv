@@ -644,3 +644,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-03-19,Softly glows the fog  <br>Misty whispers on the hills  <br>Morning's secret breath,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2026-03-19,River's gentle voice  <br>Echoes through the canyon's heart  <br>Nature's ancient soul,Llama 3.3,4,5,4,4.33,0.5774,FALSE
 2026-03-19,Softly shines the pool<br><br>Ripples dance upon its face<br><br>Summer's quiet heart,Llama 3.1,5,4,3,4.0,1.0,FALSE
+2026-03-20,Softly glows the sand  <br>Golden light on desert dreams  <br>Nature's warm refuge,Llama 4 Scout,3,5,5,4.33,1.1547,FALSE
+2026-03-20,Sunset's fiery edge <br>Ripples on the distant sea <br>Peaceful evening sky,Llama 3.3,4,4,4,4.0,0.0,FALSE
+2026-03-20,Softly falls the mist<br>Glistening on the mountain's<br>Morning's gentle veil,Llama 3.1,5,5,4,4.67,0.5774,TRUE
