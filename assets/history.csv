@@ -662,3 +662,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-03-25,Softly glows the lava  <br>Golden light on ancient rocks  <br>Nature's primal core,Llama 4 Scout,4,5,5,4.67,0.5774,FALSE
 2026-03-25,Softly whispers breeze<br>Glistening on the lotus flower<br>Summer's gentle kiss,Llama 3.3,5,5,5,5.0,0.0,TRUE
 2026-03-25,Softly falls the snow<br><br>Frozen tears on silent trees<br><br>Winter's gentle sleep,Llama 3.1,5,5,5,5.0,0.0,FALSE
+2026-03-26,Softly glows the agate <br><br>Moonlit whispers on the tide <br><br>Serenity's shore,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
+2026-03-26,"Frozen waterfall stands <br>Barren beauty, icy grip <br>Winter's silent keep",Llama 3.3,5,5,5,5.0,0.0,TRUE
+2026-03-26,Frozen forest's silence  <br><br>Snowflakes gently settling deep  <br><br>Winter's quiet sleep,Llama 3.1,4,4,3,3.67,0.5774,FALSE
