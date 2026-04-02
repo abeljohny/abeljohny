@@ -683,3 +683,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-04-01,Silken spider threads <br><br>Dew drops glisten on the web <br><br>Morning's subtle art,Llama 4 Scout,5,5,5,5.0,0.0,TRUE
 2026-04-01,Blossoming darkness <br>Shadows weave a secret tale <br>Midnight's hidden bloom,Llama 3.3,4,4,4,4.0,0.0,FALSE
 2026-04-01,Softly falls the snow <br><br>Fleeting whispers on the trees  <br><br>Winter's peaceful hush,Llama 3.1,5,5,5,5.0,0.0,FALSE
+2026-04-02,Softly glows the mistletoe<br>Moonlit whispers on the roof<br>Winter's gentle kiss,Llama 4 Scout,4,4,5,4.33,0.5774,TRUE
+2026-04-02,Softly blooms the vine  <br>Tendrils curling on the wall  <br>Summer's gentle grasp,Llama 3.3,3,3,4,3.33,0.5774,FALSE
+2026-04-02,Softly falls the snow<br><br>Frozen dance on winter's face<br>Season's icy kiss,Llama 3.1,4,5,4,4.33,0.5774,FALSE
