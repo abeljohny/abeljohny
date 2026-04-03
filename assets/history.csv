@@ -686,3 +686,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-04-02,Softly glows the mistletoe<br>Moonlit whispers on the roof<br>Winter's gentle kiss,Llama 4 Scout,4,4,5,4.33,0.5774,TRUE
 2026-04-02,Softly blooms the vine  <br>Tendrils curling on the wall  <br>Summer's gentle grasp,Llama 3.3,3,3,4,3.33,0.5774,FALSE
 2026-04-02,Softly falls the snow<br><br>Frozen dance on winter's face<br>Season's icy kiss,Llama 3.1,4,5,4,4.33,0.5774,FALSE
+2026-04-03,Softly glows the tea<br>Steamy whispers on my hands<br>Winter's gentle grasp,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
+2026-04-03,Crimson sunrise blooms <br>Vibrant hues upon the lake <br>Nature's fierce delight,Llama 3.3,3,5,5,4.33,1.1547,TRUE
+2026-04-03,Silent city nights<br><br>Shadows hide the heart's cry<br>Urban stillness deep,Llama 3.1,5,3,2,3.33,1.5275,FALSE
