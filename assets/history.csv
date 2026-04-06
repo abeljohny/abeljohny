@@ -695,3 +695,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-04-05,Softly glows the vine<br>Moonlit tendrils on the wall<br>Summer's gentle grasp,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2026-04-05,River's ancient voice<br><br>Echoes through the canyon walls<br>Nature's hidden pulse,Llama 3.3,5,4,4,4.33,0.5774,FALSE
 2026-04-05,Softly falls the snow<br><br>Frozen crystals slowly dance<br><br>Winter's peaceful hush,Llama 3.1,4,5,4,4.33,0.5774,FALSE
+2026-04-06,Softly glows the rain  <br>Glistening on the petals  <br>Spring's sweet tender kiss,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
+2026-04-06,Freshly cut grass sweet<br>Dancing blades in warm sunlight<br> Childhood's simple joy,Llama 3.3,4,5,5,4.67,0.5774,TRUE
+2026-04-06,"Softly glows the mist<br><br>Morning's secret, hidden place<br><br>Solitude's stillness",Llama 3.1,5,4,4,4.33,0.5774,FALSE
