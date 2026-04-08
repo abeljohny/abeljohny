@@ -701,3 +701,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-04-07,Softly glows the rain<br>Gentle rhythm on the roof<br>Calmness soothes the soul,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
 2026-04-07,Gentle morning snow  <br>Blanketing the city's sounds  <br>Calmness deeply falls,Llama 3.3,4,5,4,4.33,0.5774,FALSE
 2026-04-07,Softly falls the snow<br>Silent flakes on forest floor<br>Winter's gentle hush,Llama 3.1,5,5,5,5.0,0.0,TRUE
+2026-04-08,Softly glows the quartz<br><br>Moonlit shadows on the wall<br><br>Mineral heartbeat,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
+2026-04-08,Morning's hidden cove <br>Gentle lapping of the waves <br>Peaceful heart's refuge,Llama 3.3,5,5,5,5.0,0.0,TRUE
+2026-04-08,Softly falls the night<br>Darkness hides the city's voice<br>Lonely stars remain,Llama 3.1,4,4,3,3.67,0.5774,FALSE
