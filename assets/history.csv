@@ -728,3 +728,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-04-19,Softly glows the flute<br>Moonlit melodies on wind<br>Serenity's song,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
 2026-04-19,Gentle morning dew <br>Sparkling on the spider's web <br>Nature's subtle song,Llama 3.3,5,4,5,4.67,0.5774,TRUE
 2026-04-19,Softly falls the dew<br><br>Glistening on the spider's web<br><br>Morning's subtle dance,Llama 3.1,4,3,1,2.67,1.5275,FALSE
+2026-04-21,Softly glows the copper<br><br>Warmth on autumn's library<br><br>Knowledge' gentle grasp,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
+2026-04-21,Tranquil evening sky<br><br>Shadows dance upon the wall<br>Contemplation's sea,Llama 3.3,5,5,5,5.0,0.0,TRUE
+2026-04-21,Softly falls the night<br>Stardust whispers on my face<br>Celestial sigh,Llama 3.1,4,5,3,4.0,1.0,FALSE
