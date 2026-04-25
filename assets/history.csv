@@ -737,3 +737,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-04-23,Softly glows the amber<br><br>Warmth on winter's library<br><br>Knowledge' gentle flame,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
 2026-04-23,Morning's fiery blade<br><br>Cutting through the city's chill<br>Urban heart's pulse beats,Llama 3.3,4,5,4,4.33,0.5774,FALSE
 2026-04-23,Softly falls the dew<br><br>Morning's gentle kiss on grass<br><br>Nature's subtle start,Llama 3.1,5,4,5,4.67,0.5774,TRUE
+2026-04-25,Softly glows the canyon<br>Moonlit shadows on the stone<br>Nature's vast silence,Llama 4 Scout,4,5,4,4.33,0.5774,TRUE
+2026-04-25,Ancient city streets<br><br>Weathered stones and forgotten tales<br><br>History's gentle slope,Llama 3.3,4,4,5,4.33,0.5774,FALSE
+2026-04-25,Morning's golden light<br>Dance of sunbeams on the sea<br>Ocean's joyful song,Llama 3.1,5,5,3,4.33,1.1547,FALSE
