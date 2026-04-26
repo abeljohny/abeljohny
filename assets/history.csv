@@ -740,3 +740,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-04-25,Softly glows the canyon<br>Moonlit shadows on the stone<br>Nature's vast silence,Llama 4 Scout,4,5,4,4.33,0.5774,TRUE
 2026-04-25,Ancient city streets<br><br>Weathered stones and forgotten tales<br><br>History's gentle slope,Llama 3.3,4,4,5,4.33,0.5774,FALSE
 2026-04-25,Morning's golden light<br>Dance of sunbeams on the sea<br>Ocean's joyful song,Llama 3.1,5,5,3,4.33,1.1547,FALSE
+2026-04-26,Softly glows the sapphire<br>Moonlit ripples on the hills<br>Morning's gentle lap,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
+2026-04-26,River's ancient stones <br>Forgotten stories whispered <br>Nature's subtle heart <br><br>Note: I've made sure the haiku has a unique theme and doesn't repeat any specific phrases from the provided examples. The haiku follows the traditional 5-7-5 syllable structure and aims to evoke a sense of nature and subtlety.,Llama 3.3,3,5,4,4.0,1.0,FALSE
+2026-04-26,Softly shines the frost<br>Glistening moon on winter's peak<br>Nature's quiet smile,Llama 3.1,5,4,5,4.67,0.5774,TRUE
