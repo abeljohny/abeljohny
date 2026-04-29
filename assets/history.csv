@@ -749,3 +749,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-04-28,Softly glows the lantern<br>Golden light on winding stairs<br>Summer's gentle slope,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2026-04-28,Golden honey flows <br>Sunset warmth on ripened fields <br>Summer's gentle gold,Llama 3.3,4,5,4,4.33,0.5774,FALSE
 2026-04-28,Softly glows the ember<br><br>Golden light on frosty dawn<br><br>Morning's warm caress,Llama 3.1,3,4,2,3.0,1.0,FALSE
+2026-04-29,Softly glows the banyan<br>Moonlit whispers on the river<br>Nature's ancient arms,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
+2026-04-29,"Rustic wooden bridge <br>Forest's ancient, whispered tales <br>Nature's subtle beat",Llama 3.3,3,4,5,4.0,1.0,FALSE
+2026-04-29,"Softly falls the silence <br>Moonless night's dark, hollow heart <br>Frozen world's still sleep",Llama 3.1,5,5,3,4.33,1.1547,TRUE
