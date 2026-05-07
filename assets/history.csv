@@ -761,3 +761,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-05-04,Softly glows the map <br><br>Cartographer's gentle art <br><br>World's subtle design,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2026-05-04,Ancient forest heart <br>Moss and ferns in secret shade <br>Nature's hidden pulse <br><br>River's gentle voice <br>Echoes through the canyon walls <br>Serenity found <br><br>Moonlit desert bloom <br>Rare and fleeting beauty shines <br>Midnight's gentle gift,Llama 3.3,3,2,1,2.0,1.0,FALSE
 2026-05-04,Softly sways the willow <br>Golden light on rippled stream <br>Summer's gentle dance,Llama 3.1,5,5,5,5.0,0.0,TRUE
+2026-05-07,Softly glows the amber<br><br>Golden light on morning's path<br><br>Autumn's warm delight,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
+2026-05-07,Amber twilight fades<br>Forgotten pathways whisper<br>Lost memories sleep,Llama 3.3,5,5,4,4.67,0.5774,TRUE
+2026-05-07,"Softly falls the silence <br>Moonless night's dark, hollow heart <br>Frozen world's still sleep",Llama 3.1,4,5,1,3.33,2.0817,FALSE
