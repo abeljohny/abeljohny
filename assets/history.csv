@@ -785,3 +785,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-05-21,Softly glows the flute  <br>Moonlit melodies on air  <br>Serenity's breath,Llama 4 Scout,4,5,5,4.67,0.5774,FALSE
 2026-05-21,"Morning's crimson blaze <br>Rustic village, ancient tales <br>Forgotten paths remain",Llama 3.3,4,4,3,3.67,0.5774,FALSE
 2026-05-21,"Softly blooms the peony <br>Petals unfolding, scented air <br>Summer's gentle touch",Llama 3.1,5,5,5,5.0,0.0,TRUE
+2026-05-22,Softly glows the flute  <br>Moonlit melodies on air  <br>Serenity's song,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2026-05-22,Gentle morning haze<br>Sunbeams filter through the trees<br>Nature's subtle wake,Llama 3.3,5,4,4,4.33,0.5774,FALSE
+2026-05-22,Softly rises dawn<br>Golden light on mountains high<br>Morning's gentle cry,Llama 3.1,3,5,1,3.0,2.0,FALSE
