@@ -788,3 +788,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-05-22,Softly glows the flute  <br>Moonlit melodies on air  <br>Serenity's song,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2026-05-22,Gentle morning haze<br>Sunbeams filter through the trees<br>Nature's subtle wake,Llama 3.3,5,4,4,4.33,0.5774,FALSE
 2026-05-22,Softly rises dawn<br>Golden light on mountains high<br>Morning's gentle cry,Llama 3.1,3,5,1,3.0,2.0,FALSE
+2026-05-23,Softly glows the dawn  <br>Golden light on dewy grass  <br>Morning's vibrant breath,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2026-05-23,"Golden hues descend <br>Rustic village, twilight's pace <br>Evening's warmth remains",Llama 3.3,3,4,5,4.0,1.0,FALSE
+2026-05-23,Softly falls the snowdrift<br>Frozen sculptures on the tree<br>Winter's quiet grasp,Llama 3.1,5,5,3,4.33,1.1547,FALSE
