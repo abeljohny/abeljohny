@@ -803,3 +803,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-05-27,Softly glows the fog  <br>Moonlit whispers on the hills  <br>Morning's secret breath,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2026-05-27,Night's dark veil lifts slow <br>Shadows dance upon the hill <br>Morning's promise kept,Llama 3.3,5,4,5,4.67,0.5774,FALSE
 2026-05-27,Softly falls the fog <br>Gentle mist on ancient woods <br>Morning's quiet veil,Llama 3.1,4,5,4,4.33,0.5774,FALSE
+2026-05-28,Softly rises dawn<br>Golden light on misty valleys<br>Morning's peaceful hush,Llama 4 Scout,5,5,4,4.67,0.5774,TRUE
+2026-05-28,Rustic wooden bridge<br><br>Reflections on the quiet pond<br>Simple life's delight,Llama 3.3,4,4,5,4.33,0.5774,FALSE
+2026-05-28,Softly falls the night<br>Darkness hides the stars within<br>Cosmic silence deep,Llama 3.1,4,5,5,4.67,0.5774,FALSE
