@@ -812,3 +812,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-06-02,Softly glows the pearl  <br>Moonlit ripples on the sand  <br>Ocean's subtle song,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
 2026-06-02,"Morning's fiery blade <br>Cuts through night's dark, velvet cloak <br>Daybreak's fierce rebirth",Llama 3.3,5,5,4,4.67,0.5774,FALSE
 2026-06-02,Softly falls the frost <br>Morning's delicate silence <br>Winter's gentle sleep,Llama 3.1,4,5,5,4.67,0.5774,FALSE
+2026-06-04,Softly glows the kiln  <br>Golden warmth on shaping clay  <br>Artist's gentle craft,Llama 4 Scout,4,5,5,4.67,0.5774,FALSE
+2026-06-04,Moonbeams filter slow <br>Ripples on the forgotten <br>Pond's quiet evening,Llama 3.3,4,4,4,4.0,0.0,FALSE
+2026-06-04,Softly gleams the ember <br><br>Warmth on winter's icy night<br><br>Heart's quiet solace,Llama 3.1,5,5,5,5.0,0.0,TRUE
