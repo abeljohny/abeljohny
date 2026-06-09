@@ -827,3 +827,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-06-08,Whispers in the attic<br>Dusty shadows hide the past<br> Forgotten refuge,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2026-06-08,Gossamer twilight <br>Shadows dance upon the lake <br>Midnight's gentle lap,Llama 3.3,5,5,5,5.0,0.0,TRUE
 2026-06-08,Gentle forest breeze <br><br>Leaves whisper ancient tales <br><br>Nature's wisdom sleeps,Llama 3.1,4,4,3,3.67,0.5774,FALSE
+2026-06-09,Moonlit cinnamon  <br>Fragrant steam on winter's hands  <br>Cozy evening calm,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
+2026-06-09,"Ancient forest deep <br>Moss-covered paths unfolding <br>Earth's forgotten tale <br><br>River's gentle curve <br>Sunlight dancing on the waves <br>Serenity found <br><br>Evening's soft hush <br>Stars appearing in the sky <br>Night's dark, peaceful sea",Llama 3.3,3,2,5,3.33,1.5275,FALSE
+2026-06-09,Softly falls the night <br><br>Stardust whispers on my skin <br><br>Cosmic silence falls,Llama 3.1,5,5,3,4.33,1.1547,TRUE
