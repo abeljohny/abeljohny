@@ -869,3 +869,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-06-22,Softly whispers wind  <br>Moonlit petals on the ground  <br>Forgotten scent rise,Llama 4 Scout,4,4,4,4.0,0.0,FALSE
 2026-06-22,River's gentle current <br>Sculpting stones with patient touch <br>Nature's subtle craft,Llama 3.3,5,5,5,5.0,0.0,TRUE
 2026-06-22,Golden sunset fades <br>Ripples on the quiet pond <br>Summer's gentle end,Llama 3.1,4,4,4,4.0,0.0,FALSE
+2026-06-23,Softly whispers wind  <br>Moonlit petals on the grass  <br>Summer's quiet heart,Llama 4 Scout,4,5,4,4.33,0.5774,FALSE
+2026-06-23,Quietly unfurls night <br>Shadows weave a secret cloak <br>Stars' whispered promise,Llama 3.3,5,5,5,5.0,0.0,TRUE
+2026-06-23,Fragrant morning mist  <br>Dew-kissed petals unfolding  <br>Summer's gentle kiss,Llama 3.1,4,5,3,4.0,1.0,FALSE
