@@ -884,3 +884,6 @@ date,haiku,generator,rating_by_llama4_17b,rating_by_llama3_70b,rating_by_gemma2_
 2026-06-30,Softly glows the quartz  <br>Moonlit shadows on the wall  <br>Nature's gentle hush,Llama 4 Scout,4,4,5,4.33,0.5774,FALSE
 2026-06-30,"Tranquil morning sky<br>Birdsong echoes, heart revived<br>Nature's symphony",Llama 3.3,5,5,5,5.0,0.0,TRUE
 2026-06-30,Softly falls the darkness <br>Moonlit silence on the shore <br>Ocean's darkened heart,Llama 3.1,4,4,3,3.67,0.5774,FALSE
+2026-07-01,Softly crackles flame<br>Golden warmth on winter's wood<br>Heart's quiet refuge,Llama 4 Scout,4,5,5,4.67,0.5774,TRUE
+2026-07-01,Scarlet maples blaze<br><br>Vibrant colors on the slope<br>Earth's kaleidoscope,Llama 3.3,4,4,4,4.0,0.0,FALSE
+2026-07-01,Gentle ocean breeze<br><br>Soothing waves on weathered rocks<br><br>Peaceful shore's sigh,Llama 3.1,5,5,3,4.33,1.1547,FALSE
